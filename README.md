@@ -22,7 +22,8 @@
 ![Screenshot (17)](https://user-images.githubusercontent.com/127816473/229162982-295e79c9-69da-4f75-bdd7-fab3790f80cc.png)
 
 ## OUTPUT
-![Screenshot (15)](https://user-images.githubusercontent.com/127816473/229163448-815c8f30-ac51-40f4-aba8-c563c38dcca3.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/127816473/229165213-82e0961f-469d-4ddb-b178-8b55e40bd626.png)
 
 
 ## RESULT
