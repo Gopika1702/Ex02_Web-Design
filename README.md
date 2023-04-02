@@ -20,9 +20,11 @@
   
 ## CODE
 
+![Screenshot (22)](https://user-images.githubusercontent.com/127816473/229332108-e7dccd07-96af-411c-a044-261702a41e1d.png)
 
 ## OUTPUT
 
+![Screenshot (19)](https://user-images.githubusercontent.com/127816473/229332113-9bfc9576-5dc1-462c-8ca2-e1758080a768.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
