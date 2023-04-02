@@ -19,9 +19,11 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+![Screenshot (22)](https://user-images.githubusercontent.com/127816473/229332239-a18fcca3-97a9-41d9-a077-15711fa1637f.png)
 
 
 ## OUTPUT
+![Screenshot (19)](https://user-images.githubusercontent.com/127816473/229332242-8110e770-3efc-49b7-b60a-7994c6cc893f.png)
 
 
 ## RESULT
